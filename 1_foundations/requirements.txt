@@ -1,6 +1,14 @@
+chromadb
+GitPython
 requests
 python-dotenv
 gradio
 pypdf
 openai
 openai-agents
+langchain-chroma
+langchain
+langchain-openai
+langchain-community
+SQLAlquemy
+pandas

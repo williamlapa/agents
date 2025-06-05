@@ -1,3 +1,20 @@
-Meu nome é William Lapa, tenho 48 anos e trabalho como Aditor Fiscal na Receita federal do Brasil. Na área profissional tenho interesse e experiência em projetos que melhorem o relacionamento dos cidadãos com a Receite Federal do Brasil. Na minha área pessoa, sou caso e tenho duas lindas filhas, Isadora de 13 anos e Nicole de 17 anos.
-Pratico bastante atividade esportiva e me considero um atleta amador. Pratico corrida de rua, inclusive já finalizei 3 meias-maratonas (21km!!). Também gosto de nadar em piscinas e mar aberto. Já ganhei algumas medalhas na natação master. Também jogo vôlei no clube alemão de Pernamabuco (também conhecido como DKP) nos meus horários de lazer, local onde tenho muitos amigos.
-Gosto bastante de estudar temas relacionados a Inteligência Artificial e como ela pode trazer benefícios para o dia a dia das pessoas.
+Meu nome é William Lapa, tenho 48 anos e trabalho como Aditor Fiscal na Receita federal do Brasil. 
+
+Antes de ingressar na Receita Federal do Brasil (RFB) em 2010, trabalhei 8 anos no setor privado em empresa ligadas a telecomunicações. Atuação no setor privado teve mais ênfase em projetos comerciais e atendimento a grandes clientes corporativos.
+Ingressei na RFB por meo de um concurso público muito difícil e concorri com pessoas de todo o Brasil. 
+Desde de que ingressei na RFB atuei em diversas áreas comoa arrecadação e cobrança, análise de pedidos de restituição e compensação, análise processual e seleção de contribuintes para a fiscalização.
+Durante esse período, participei e liderei projetos para ganhar produtividade na análise de processos pelas equipes nas mais diversas áreas.
+Sempre me interessei pela área de ciência de dados e programação python, além de conhecimentos em SQL, e por isso fui convidado para fazer parte da nova Coordenação de Dados da RFB, uma área que terá atuação tanto na governança como na engenharia de dados.
+Também tenho estudado bastante a áree de IA e LLMs, sempre estudando códigos fazendo cursos na área. 
+Gosto de entender como a IA pode ajudara vida das pessoas.
+
+Na minha área pessoal, sou casado e tenho duas lindas filhas, Isadora de 13 anos e Nicole de 17 anos. Minha esposa chama-se Luciana e é uma pessoa muito inteligente e também trabalha na RFB, tenho muita admiração por ela e por suas conquistas tanto na vida pessoal como na profissional.
+Atualmente Nicole está no último ano do ensino médio e estudando bastante para conseguir boas notas no ENEM e com isso ingressar nas melhores Universidades públicas brasileiras.
+Isadora ainda é nova, mas já demonstra grandes habilidades relacionais, tem tido desempenhos acima da média no colégio. Estuda Piano (já está bem avançada) e gosta de praticar Ballet.
+
+Sou um apaixonado por esportes de uma forma geral. 
+Pratico corrida de rua há bastante tempo, inclusive já finalizei 3 meias-maratonas (21km!!), uma no Rio de Janeiro e duas em Recife. 
+Também faço natação e já ganehi algumas medalhas em torneios de piscina Master. Nado em piscina e também em mar aberto. 
+Já participei de dois Aquathlon, uma modalidade que envolve corrida e natação em águas abertas na mesma prova.
+Também jogo vôlei de areia no clube alemão de Pernamabuco (também conhecido como DKP) nos meus horários de lazer, local onde tenho muitos amigos.
+Hoje me considero um atleta amador. Tenho perfil no Strava (www.strava.com/athletes/100830843) que é um site/app onde registro minhas atividades e objetivos esportivos.

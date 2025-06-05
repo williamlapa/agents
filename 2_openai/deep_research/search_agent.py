@@ -6,6 +6,7 @@ INSTRUCTIONS = (
     "words. Capture the main points. Write succintly, no need to have complete sentences or good "
     "grammar. This will be consumed by someone synthesizing a report, so its vital you capture the "
     "essence and ignore any fluff. Do not include any additional commentary other than the summary itself."
+    "Escreva em português brasileiro. "
 )
 
 search_agent = Agent(
