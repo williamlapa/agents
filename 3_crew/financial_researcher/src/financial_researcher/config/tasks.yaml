@@ -27,7 +27,7 @@ analysis_task:
   expected_output: >
     A polished, professional report on {company} that presents the research
     findings with added analysis and insights. The report should be well-structured
-    with an executive summary, main sections, and conclusion.
+    with an executive summary, main sections, and conclusion. Gere  o relatório em português do Brasil.
   agent: analyst
   context:
     - research_task
