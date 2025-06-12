@@ -1,0 +1,19 @@
+Relatório Detalhado dos Restaurantes Italianos para o Dia dos Namorados
+
+1. **Pecora Nera**
+   - **Endereço:** Praça de Casa Forte, 505, Casa Forte, Recife, PE
+   - **Avaliações:** 4.3 de 5 (423 avaliações)
+   - **Descrição:** O Pecora Nera proporciona uma verdadeira experiência da culinária italiana, destacando-se por seus pratos autênticos, que incluem massas feitas à mão e uma variedade de vinhos. O ambiente é acolhedor, com uma decoração rústica e moderna, ideal para um jantar romântico. O atendimento é bastante elogiado pelos clientes, que destacam a cortesia e a eficiência dos funcionários.
+   - **Horário de Funcionamento:** Aberto todos os dias das 18h às 23h.
+
+2. **Trattoria DaDani**
+   - **Endereço:** Rua Conselheiro Peretti, 96, Casa Amarela, Recife, PE
+   - **Avaliações:** 4.0 de 5
+   - **Descrição:** A Trattoria DaDani é conhecida pelo seu ambiente aconchegante e pelo atendimento cordial. O cardápio oferece uma variedade de pratos italianos, incluindo massas artesanais feitas no local. É uma ótima opção para quem busca um jantar acolhedor e de qualidade. Os clientes frequentemente comentam sobre a atmosfera familiar e o toque pessoal em cada prato.
+   - **Horário de Funcionamento:** Terça a quinta, 19h às 23h; Sexta e sábado, das 12h às 15h e das 19h às 23h.
+
+3. **Pilo Cucina**
+   - **Endereço:** Rua Regueira Costa, 80, Rosarinho, Recife, PE
+   - **Avaliações:** 4.7 de 5 
+   - **Descrição:** O Pilo Cucina combina a culinária italiana contemporânea com um toque moderno, oferecendo pratos cuidadosamente preparados com ingredientes frescos e locais. O ambiente é elegante, ideal para um jantar a dois. Os clientes elogiam tanto a qualidade da comida quanto a apresentação dos pratos, além do serviço atencioso.
+   - **Horário de Funcionamento:** Todos os dias a partir das 11h.

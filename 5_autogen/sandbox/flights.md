@@ -1,28 +1,12 @@
-Flight Deals from JFK to LHR - June 2025:
+**Voos de Ida e Volta de Recife a São Paulo (Guarulhos) - Junho 2025**
 
-1. Airline: Virgin Atlantic
-   - Price: $497
-   - Non-stop
-   - In-flight amenities: meals, drinks, entertainment, WiFi
+- **Companhia Aérea (Ida):** Azul Linhas Aéreas  
+  - **Data da Ida:** 12/06/2025  
+  - **Preço (Ida):** R$ 468,79
 
-2. Airline: JetBlue
-   - Price: $314
-   - Non-stop
-   - Booking available now
+- **Companhia Aérea (Volta):** GOL Linhas Aéreas  
+  - **Data da Volta:** 19/06/2025  
+  - **Preço (Volta):** R$ 524,51
 
-3. Airline: Delta
-   - Price: $239
-   - Non-stop
-   - Additional services: earns airline miles
-
-4. Airline: SWISS
-   - Price: $402
-   - Non-stop
-   - Comfortable seating and great service
-
-5. Airline: United Airlines
-   - Price: $450
-   - Non-stop
-   - Great onboard experience
-
-Best Deal: JetBlue at $314 for a non-stop flight from JFK to LHR. 
+### Total da Viagem:  
+**Total:** R$ 993,30
