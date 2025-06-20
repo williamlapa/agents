@@ -136,6 +136,9 @@ ENV/
 env.bak/
 venv.bak/
 
+#pasta projetos
+7_projetos/
+
 # Spyder project settings
 .spyderproject
 .spyproject
