@@ -1,3 +1,6 @@
+#arquivos pesados
+/docs_condominio/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
